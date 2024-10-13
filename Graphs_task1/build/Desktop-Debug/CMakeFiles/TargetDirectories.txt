@@ -1,0 +1,7 @@
+/home/roman/cpp-codes/Graphs_task1/build/Desktop-Debug/CMakeFiles/Graphs_task1.dir
+/home/roman/cpp-codes/Graphs_task1/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/roman/cpp-codes/Graphs_task1/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/roman/cpp-codes/Graphs_task1/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/roman/cpp-codes/Graphs_task1/build/Desktop-Debug/CMakeFiles/install.dir
+/home/roman/cpp-codes/Graphs_task1/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/roman/cpp-codes/Graphs_task1/build/Desktop-Debug/CMakeFiles/install/strip.dir
